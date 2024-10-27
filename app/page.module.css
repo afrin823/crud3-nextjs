@@ -21,7 +21,6 @@
 .description a {
   display: flex;
   justify-content: center;
-  padding: 1px;
   align-items: center;
   gap: 0.5rem;
 }
